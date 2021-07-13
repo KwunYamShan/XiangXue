@@ -1,0 +1,4 @@
+include ':1_zhujiechuliqi'
+include ':1_zhujie_fanshe'
+include ':app'
+rootProject.name = "XiangXue"
